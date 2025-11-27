@@ -8,11 +8,11 @@
 
 ###
 
-<img align="right" height="195" src="https://img.odcdn.com.br/wp-content/uploads/2023/11/Gif-astronauta-arco-iris.gif"  />
+<p align="left">👋 Olá! Meu nome é Breno  <br>🎓 Estudante de TI com formação em Análise e Desenvolvimento de Sistemas  <br>💻 Apaixonado por tecnologia e desenvolvimento de software  <br>🚀 Buscando oportunidades para crescer na área tech  <br>📂 Aqui você encontra alguns dos meus projetos — espero que gostem! 🙂</p>
 
 ###
 
-<p align="left">👋 Olá! Meu nome é Breno  <br>🎓 Estudante de TI com formação em Análise e Desenvolvimento de Sistemas  <br>💻 Apaixonado por tecnologia e desenvolvimento de software  <br>🚀 Buscando oportunidades para crescer na área tech  <br>📂 Aqui você encontra alguns dos meus projetos — espero que gostem! 🙂</p>
+<img align="right" height="195" src="https://img.odcdn.com.br/wp-content/uploads/2023/11/Gif-astronauta-arco-iris.gif"  />
 
 ###
 
@@ -43,6 +43,10 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="40" alt="csharp logo"  />
 </div>
+
+###
+
+<h2 align="center">Redes Socias</h2>
 
 ###
 
