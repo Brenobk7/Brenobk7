@@ -1,4 +1,4 @@
-<h1 align="left">Hey 👋 What's up?</h1>
+<h1 align="left">Olá👋 Tudo bem ?</h1>
 
 ###
 
@@ -16,7 +16,9 @@
 
 ###
 
-<h2 align="left">I code with</h2>
+<br clear="both">
+
+<h2 align="center">Eu programo com</h2>
 
 ###
 
@@ -44,7 +46,7 @@
 
 ###
 
-<div align="left">
+<div align="center">
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="discord logo"  />
 </div>
